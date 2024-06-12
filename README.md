@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer and tech entrep
 
 ## 🚀 About Me
 
-I'm the co-founder of [Digirex.io](https://digirex.io), where I lead the tech stack, manage infrastructure, and make key architectural decisions. I am currently involved with [ScrollEngine](https://scrollengine.io), a SaaS platform for e-commerce merchants that manages deliveries, store pickups, notifications, real-time tracking, and fulfillment. ScrollEngine empowers over 1500 Shopify stores daily. My career journey includes pivotal roles at multiple startups, where I honed my skills in developing robust backend solutions and dynamic mobile applications.
+I'm the co-founder of [Digirex.io](https://digirex.io), where I lead the tech stack, manage infrastructure, and make key architectural decisions. I am currently involved with [ScrollEngine](https://scrollengine.io), a SaaS platform for e-commerce merchants that manages deliveries, store pickups, notifications, real-time tracking, and fulfillment. ScrollEngine empowers over 1500 Shopify stores daily. My career journey includes pivotal roles at multiple startups, where I honed my skills in developing robust backend solutions and dynamic Shopify Apps and mobile applications.
 
 ### 🌐 Connect with Me
 
