@@ -95,9 +95,9 @@ I'm the co-founder of [Digirex.io](https://digirex.io), where I lead the tech st
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nawneetsharma&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nawneet-sharma&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nawneetsharma&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nawneet-sharma&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
 
