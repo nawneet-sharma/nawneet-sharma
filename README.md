@@ -104,4 +104,4 @@ Feel free to reach out if you want to collaborate on a project, discuss backend 
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=nawneetsharma&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=nawneet-sharma&style=flat-square&color=blue)
