@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer and tech entrep
 
 ## 🚀 About Me
 
-I'm the co-founder of [Digirex.io](https://digirex.io), where I lead the tech stack, manage infrastructure, and make key architectural decisions. My career journey includes pivotal roles at TMRW, Marmeto, On-Track Technology, and Elezire Technologies, where I honed my skills in developing robust backend solutions and dynamic mobile applications.
+I'm the co-founder of [Digirex.io](https://digirex.io), where I lead the tech stack, manage infrastructure, and make key architectural decisions. I am currently involved with [ScrollEngine](https://scrollengine.io), a SaaS platform for e-commerce merchants that manages deliveries, store pickups, notifications, real-time tracking, and fulfillment. ScrollEngine empowers over 1500 Shopify stores daily. My career journey includes pivotal roles at multiple startups, where I honed my skills in developing robust backend solutions and dynamic mobile applications.
 
 ### 🌐 Connect with Me
 
@@ -15,11 +15,11 @@ I'm the co-founder of [Digirex.io](https://digirex.io), where I lead the tech st
 
 **Languages & Frameworks:**
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-- ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 - ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 - ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 **Databases:**
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -45,16 +45,15 @@ I'm the co-founder of [Digirex.io](https://digirex.io), where I lead the tech st
 - **Focus**: Tech stack management, infrastructure scaling, architectural decisions
 
 ### [ScrollEngine](https://scrollengine.io)
-- **Role**: Lead Developer
-- **Tech Stack**: Node.js, Express.js, Redis, MongoDB
+- **Role**: Co-Founder & Lead Developer
+- **Tech Stack**: Node.js, Express.js, Redis, MongoDB, Service Bus, Azure
 - **Focus**: Building and maintaining a SaaS platform for e-commerce merchants, empowering over 1500 Shopify stores daily
 
 ### Notable Projects
 
-#### Discount + Wallet App for Bewakoof.com
+#### Discount App
 - **Description**: A versatile discount management app for various discount mechanisms, enhancing sales and customer retention.
 - **Tech Stack**: Node.js, Next.js, MongoDB, MySQL, React, Shopify Polaris
-- **Link**: [Bewakoof.com](https://www.bewakoof.com/)
 
 #### Local Delivery
 - **Description**: A Shopify Public App for last-mile delivery management with real-time updates on delivery statuses.
