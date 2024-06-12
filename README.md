@@ -92,12 +92,6 @@ I'm the co-founder of [Digirex.io](https://digirex.io), where I lead the tech st
 - **Tech Stack**: Android (Java), iOS (Swift)
 - **Link**: [Ontrack Bike Rental](https://play.google.com/store/apps/details?id=com.ontrack.ontrack)
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nawneet-sharma&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nawneet-sharma&layout=compact&theme=radical)
-
 ## 📫 Let's Connect
 
 Feel free to reach out if you want to collaborate on a project, discuss backend architecture, or chat about the latest trends in tech. I'm always open to new opportunities and connections.
