@@ -99,3 +99,10 @@ Feel free to reach out if you want to collaborate on a project, discuss backend 
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nawneet-sharma&style=flat-square&color=blue)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nawneet-sharma&theme=dark&hide_border=true"/>
+
+[![Nawneet's GitHub | Stats](https://stats.quira.sh/nawneet-sharma/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=nawneet-sharma)
+
+
+[![Nawneet's GitHub | Languages Over Time](https://stats.quira.sh/nawneet-sharma/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=nawneet-sharma)
