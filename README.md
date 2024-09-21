@@ -102,6 +102,9 @@ Feel free to reach out if you want to collaborate on a project, discuss backend 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nawneet-sharma&theme=dark&hide_border=true"/>
 
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nawneet-sharma&theme=dark&hide_border=true"/>
+
 [![Nawneet's GitHub | Stats](https://stats.quira.sh/nawneet-sharma/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=nawneet-sharma)
 
 
