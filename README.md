@@ -96,10 +96,4 @@ I'm the co-founder of [Digirex.io](https://digirex.io), where I lead the tech st
 
 Feel free to reach out if you want to collaborate on a project, discuss backend architecture, or chat about the latest trends in tech. I'm always open to new opportunities and connections.
 
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=nawneet-sharma&style=flat-square&color=blue)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nawneet-sharma&theme=dark&hide_border=true"/>
-
-
+----
